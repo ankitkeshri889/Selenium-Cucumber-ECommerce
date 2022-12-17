@@ -1,0 +1,64 @@
+How to execute the Project through 
+
+1. Maven pom.xml
+- Add the below code in pom.xml above <dependencies> tag
+
+<build>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>3.8.1</version>
+				<configuration>
+					<source>1.8</source>
+					<target>1.8</target>
+					<encoding>UTF-8</encoding>
+				</configuration>
+			</plugin>
+		</plugins>
+
+	</build>
+
+- Right Click on the pom.xml file and Run As -> Maven Test
+and the projectwill run
+
+---------------------------------------------------------------
+
+2. Command Prompt 
+- In order to run the project from command prompt we need to have Maven install in our system
+- And the Env Variable paths are set in the system
+- in CMD
+
+- Write - mvn -version
+- If Maven is installed 
+Then 
+
+- Go to the Project directory and 
+
+- Write mvn clean install
+and the project will run
+
+---------------------------------------------------------------
+
+3. run.bat File
+
+- Create a new file run.bat file inside Project directory
+- Download the plugin .bat in Eclipse , so that our run.bat file can be opened inside Eclipse
+- Double click on run.bat file and the project will run
+
+----------------------------------------------------------------
+
+4. Run the project through JENKINS
+
+-Download Jenkins for Windows 
+- Go to Google chrome and download Jenkins war file for Windows
+- Go to Jenkins folder in system and redirect to cmd
+- Write java -jar jekins.war
+- jenkins will run on ur local syatem on localhost:8080
+- Just open localhost:8080 once the cmd prompt is success
+
+
+
+- 
+
+- 

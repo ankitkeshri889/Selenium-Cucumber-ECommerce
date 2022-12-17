@@ -1,0 +1,8 @@
+pageObjects\LoginPage.class
+pageObjects\SearchCustomerPage.class
+testRunner\TestRunner.class
+pageObjects\HomePage.class
+stepDefinitions\BaseClass.class
+utilities\WaitHelper.class
+stepDefinitions\Steps.class
+pageObjects\AddCustomerPage.class

@@ -1,0 +1,141 @@
+2022-08-28 16:18:36,583 [main] INFO Project - *** Launching the Browser ***
+2022-08-28 16:18:36,593 [main] INFO Project - *** Opening the URL of the application ***
+2022-08-28 16:18:38,372 [main] INFO Project - **** Providing the USER Details ****
+2022-08-28 16:18:38,608 [main] INFO Project -  **** Clicking on Login Button ***
+2022-08-28 16:19:10,048 [main] INFO Project - Adding a new Customer ... 
+2022-08-28 16:19:10,048 [main] INFO Project - **** PROVDIING Customer Details ****
+2022-08-28 16:19:23,659 [main] INFO Project - **** SAVING Customer Data ****
+2022-08-28 16:19:31,220 [main] INFO Project - *** Launching the Browser ***
+2022-08-28 16:19:31,223 [main] INFO Project - *** Opening the URL of the application ***
+2022-08-28 16:19:32,788 [main] INFO Project - **** Providing the USER Details ****
+2022-08-28 16:19:32,975 [main] INFO Project -  **** Clicking on Login Button ***
+2022-08-28 16:19:41,515 [main] INFO Project - Searching a new Customer By using EmailID
+2022-08-28 16:19:47,010 [main] INFO Project - *** Launching the Browser ***
+2022-08-28 16:19:47,011 [main] INFO Project - *** Opening the URL of the application ***
+2022-08-28 16:19:48,614 [main] INFO Project - **** Providing the USER Details ****
+2022-08-28 16:19:48,803 [main] INFO Project -  **** Clicking on Login Button ***
+2022-08-28 16:19:55,503 [main] INFO Project - Searching a new Customer By using Name
+2022-08-28 16:20:03,052 [main] INFO Project - *** Launching the Browser ***
+2022-08-28 16:20:03,058 [main] INFO Project - *** Opening the URL of the application ***
+2022-08-28 16:20:21,992 [main] INFO Project - **** Providing the USER Details ****
+2022-08-28 16:20:22,180 [main] INFO Project -  **** Clicking on Login Button ***
+2022-08-28 16:20:29,627 [main] INFO Project -  **** LOGIN Failed ****
+2022-08-28 16:20:34,641 [main] INFO Project -  **** LOGOUT Successful ****
+2022-08-28 16:20:36,112 [main] INFO Project -  **** CLOSING The Browser ****
+2022-08-28 16:20:37,308 [main] INFO Project - *** Launching the Browser ***
+2022-08-28 16:20:37,310 [main] INFO Project - *** Opening the URL of the application ***
+2022-08-28 16:20:38,875 [main] INFO Project - **** Providing the USER Details ****
+2022-08-28 16:20:39,054 [main] INFO Project -  **** Clicking on Login Button ***
+2022-08-28 16:20:43,715 [main] INFO Project -  **** LOGIN Failed ****
+2022-08-28 16:20:48,725 [main] INFO Project -  **** LOGOUT Successful ****
+2022-08-28 16:20:50,145 [main] INFO Project -  **** CLOSING The Browser ****
+2022-08-28 16:20:53,474 [main] INFO Project - *** Launching the Browser ***
+2022-08-28 16:20:53,475 [main] INFO Project - *** Opening the URL of the application ***
+2022-08-28 16:20:54,052 [main] INFO Project - **** Providing the USER Details ****
+2022-08-28 16:20:54,244 [main] INFO Project -  **** Clicking on Login Button ***
+2022-08-28 16:20:54,743 [main] INFO Project -  **** LOGIN Passed ****
+2022-08-28 16:20:55,793 [main] INFO Project - *** Launching the Browser ***
+2022-08-28 16:20:55,795 [main] INFO Project - *** Opening the URL of the application ***
+2022-08-28 16:20:56,399 [main] INFO Project - **** Providing the USER Details ****
+2022-08-28 16:20:56,588 [main] INFO Project -  **** Clicking on Login Button ***
+2022-08-28 16:20:59,432 [main] INFO Project -  **** LOGIN Passed ****
+2022-08-28 17:39:00,030 [main] INFO Project - *** Launching the Browser ***
+2022-08-28 17:39:04,387 [main] INFO Project - *** Opening the URL of the application ***
+2022-08-28 17:39:06,191 [main] INFO Project - **** Providing the USER Details ****
+2022-08-28 17:39:06,676 [main] INFO Project -  **** Clicking on Login Button ***
+2022-08-28 17:39:30,558 [main] INFO Project - Adding a new Customer ... 
+2022-08-28 17:39:30,558 [main] INFO Project - **** PROVDIING Customer Details ****
+2022-08-28 17:39:45,582 [main] INFO Project - **** SAVING Customer Data ****
+2022-08-28 17:39:52,588 [main] INFO Project - *** Launching the Browser ***
+2022-08-28 17:39:56,203 [main] INFO Project - *** Opening the URL of the application ***
+2022-08-28 17:39:56,975 [main] INFO Project - **** Providing the USER Details ****
+2022-08-28 17:39:57,353 [main] INFO Project -  **** Clicking on Login Button ***
+2022-08-28 17:40:07,070 [main] INFO Project - Searching a new Customer By using EmailID
+2022-08-28 17:40:12,055 [main] INFO Project - *** Launching the Browser ***
+2022-08-28 17:40:15,739 [main] INFO Project - *** Opening the URL of the application ***
+2022-08-28 17:40:20,825 [main] INFO Project - **** Providing the USER Details ****
+2022-08-28 17:40:21,374 [main] INFO Project -  **** Clicking on Login Button ***
+2022-08-28 17:40:42,372 [main] INFO Project - Searching a new Customer By using Name
+2022-08-28 17:41:49,779 [main] INFO Project - *** Launching the Browser ***
+2022-08-28 17:41:51,430 [main] INFO Project - *** Launching the Browser ***
+2022-08-28 17:41:55,666 [main] INFO Project - *** Opening the URL of the application ***
+2022-08-28 17:41:56,772 [main] INFO Project - **** Providing the USER Details ****
+2022-08-28 17:41:57,200 [main] INFO Project -  **** Clicking on Login Button ***
+2022-08-28 17:42:03,990 [main] INFO Project - *** Launching the Browser ***
+2022-08-28 17:42:07,996 [main] INFO Project - *** Opening the URL of the application ***
+2022-08-28 17:42:09,016 [main] INFO Project - **** Providing the USER Details ****
+2022-08-28 17:42:09,533 [main] INFO Project -  **** Clicking on Login Button ***
+2022-08-28 17:42:16,770 [main] INFO Project - Searching a new Customer By using Name
+2022-08-28 17:45:46,256 [main] INFO Project - *** Launching the Browser ***
+2022-08-28 17:45:51,335 [main] INFO Project - *** Opening the URL of the application ***
+2022-08-28 17:45:53,369 [main] INFO Project - **** Providing the USER Details ****
+2022-08-28 17:45:53,790 [main] INFO Project -  **** Clicking on Login Button ***
+2022-08-28 17:46:04,415 [main] INFO Project - Adding a new Customer ... 
+2022-08-28 17:46:04,417 [main] INFO Project - **** PROVDIING Customer Details ****
+2022-08-28 17:46:16,519 [main] INFO Project - *** Launching the Browser ***
+2022-08-28 17:46:21,205 [main] INFO Project - *** Opening the URL of the application ***
+2022-08-28 17:46:22,122 [main] INFO Project - **** Providing the USER Details ****
+2022-08-28 17:46:22,530 [main] INFO Project -  **** Clicking on Login Button ***
+2022-08-28 17:46:31,563 [main] INFO Project - Searching a new Customer By using EmailID
+2022-08-28 17:46:35,407 [main] INFO Project - *** Launching the Browser ***
+2022-08-28 17:46:39,945 [main] INFO Project - *** Opening the URL of the application ***
+2022-08-28 17:46:41,109 [main] INFO Project - **** Providing the USER Details ****
+2022-08-28 17:46:41,620 [main] INFO Project -  **** Clicking on Login Button ***
+2022-08-28 17:46:49,394 [main] INFO Project - Searching a new Customer By using Name
+2022-08-28 17:48:27,863 [main] INFO Project - *** Launching the Browser ***
+2022-08-28 17:48:33,457 [main] INFO Project - *** Opening the URL of the application ***
+2022-08-28 17:48:35,569 [main] INFO Project - **** Providing the USER Details ****
+2022-08-28 17:48:36,003 [main] INFO Project -  **** Clicking on Login Button ***
+2022-08-28 17:48:47,930 [main] INFO Project - Adding a new Customer ... 
+2022-08-28 17:48:47,932 [main] INFO Project - **** PROVDIING Customer Details ****
+2022-08-28 17:48:59,812 [main] INFO Project - *** Launching the Browser ***
+2022-08-28 17:49:04,619 [main] INFO Project - *** Opening the URL of the application ***
+2022-08-28 17:49:06,832 [main] INFO Project - **** Providing the USER Details ****
+2022-08-28 17:49:07,227 [main] INFO Project -  **** Clicking on Login Button ***
+2022-08-28 17:49:15,029 [main] INFO Project - Searching a new Customer By using EmailID
+2022-08-28 17:49:18,474 [main] INFO Project - *** Launching the Browser ***
+2022-08-28 17:49:22,788 [main] INFO Project - *** Opening the URL of the application ***
+2022-08-28 17:49:24,893 [main] INFO Project - **** Providing the USER Details ****
+2022-08-28 17:49:25,301 [main] INFO Project -  **** Clicking on Login Button ***
+2022-08-28 17:57:07,272 [main] INFO Project - *** Launching the Browser ***
+2022-08-28 17:57:12,207 [main] INFO Project - *** Opening the URL of the application ***
+2022-08-28 17:57:14,755 [main] INFO Project - **** Providing the USER Details ****
+2022-08-28 17:57:15,196 [main] INFO Project -  **** Clicking on Login Button ***
+2022-08-28 17:57:18,574 [main] INFO Project -  **** LOGIN Failed ****
+2022-08-28 17:57:23,609 [main] INFO Project -  **** LOGOUT Successful ****
+2022-08-28 17:57:25,254 [main] INFO Project -  **** CLOSING The Browser ****
+2022-08-29 10:38:03,869 [main] INFO Project - *** Launching the Browser ***
+2022-08-29 10:39:23,895 [main] INFO Project - *** Launching the Browser ***
+2022-08-29 10:39:25,789 [main] INFO Project - *** Opening the URL of the application ***
+2022-08-29 10:39:27,408 [main] INFO Project - **** Providing the USER Details ****
+2022-08-29 10:39:27,666 [main] INFO Project -  **** Clicking on Login Button ***
+2022-08-29 10:39:32,109 [main] INFO Project -  **** LOGIN Failed ****
+2022-08-29 10:39:37,123 [main] INFO Project -  **** LOGOUT Successful ****
+2022-08-29 10:39:38,657 [main] INFO Project -  **** CLOSING The Browser ****
+2022-08-29 10:46:40,464 [main] INFO Project - *** Launching the Browser ***
+2022-08-29 10:46:42,933 [main] INFO Project - *** Opening the URL of the application ***
+2022-08-29 10:46:44,517 [main] INFO Project - **** Providing the USER Details ****
+2022-08-29 10:46:44,789 [main] INFO Project -  **** Clicking on Login Button ***
+2022-08-29 10:46:49,184 [main] INFO Project -  **** LOGIN Failed ****
+2022-08-29 10:46:54,206 [main] INFO Project -  **** LOGOUT Successful ****
+2022-08-29 10:46:55,732 [main] INFO Project -  **** CLOSING The Browser ****
+2022-08-29 10:56:43,461 [main] INFO Project - *** Launching the Browser ***
+2022-08-29 10:56:46,404 [main] INFO Project - *** Opening the URL of the application ***
+2022-08-29 10:56:47,573 [main] INFO Project - **** Providing the USER Details ****
+2022-08-29 10:56:48,188 [main] INFO Project -  **** Clicking on Login Button ***
+2022-08-29 10:56:52,579 [main] INFO Project -  **** LOGIN Failed ****
+2022-08-29 10:56:57,605 [main] INFO Project -  **** LOGOUT Successful ****
+2022-08-29 10:56:59,127 [main] INFO Project -  **** CLOSING The Browser ****
+2022-08-29 10:58:27,963 [main] INFO Project - *** Launching the Browser ***
+2022-08-29 10:58:30,769 [main] INFO Project - *** Opening the URL of the application ***
+2022-08-29 10:58:31,494 [main] INFO Project - **** Providing the USER Details ****
+2022-08-29 10:58:31,759 [main] INFO Project -  **** Clicking on Login Button ***
+2022-08-29 10:58:38,335 [main] INFO Project -  **** LOGIN Failed ****
+2022-08-29 10:58:43,357 [main] INFO Project -  **** LOGOUT Successful ****
+2022-08-29 11:00:51,755 [main] INFO Project - *** Launching the Browser ***
+2022-08-29 11:00:54,110 [main] INFO Project - *** Opening the URL of the application ***
+2022-08-29 11:00:55,676 [main] INFO Project - **** Providing the USER Details ****
+2022-08-29 11:00:55,958 [main] INFO Project -  **** Clicking on Login Button ***
+2022-08-29 11:00:59,423 [main] INFO Project -  **** LOGIN Failed ****
+2022-08-29 11:01:04,444 [main] INFO Project -  **** LOGOUT Successful ****
+2022-08-29 11:01:06,039 [main] INFO Project -  **** CLOSING The Browser ****
